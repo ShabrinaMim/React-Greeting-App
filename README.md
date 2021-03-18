@@ -1,5 +1,5 @@
 
-This react app shows a heading that says Hello, Good Morning is time is between 1AM to 11 AM, Good afternoon if 12PM to 7PM, Good Night if 7PM till Midnight. It changes the color dynamically of the greeting part according to different times.
+This react app shows a heading that says Hello, Good Morning when time is between 1AM to 11 AM, Good afternoon if 12PM to 7PM, Good Night if 7PM till Midnight. It changes the color dynamically of the greeting part according to different times.
 
 
 # Getting Started with Create React App
