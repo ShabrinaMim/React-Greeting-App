@@ -1,3 +1,7 @@
+
+This react app shows a heading that says Hello, Good Morning is time is between 1AM to 11 AM, Good afternoon if 12PM to 7PM, Good Night if 7PM till Midnight. It changes the color dynamically of the greeting part according to different times.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
